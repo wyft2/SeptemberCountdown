@@ -1,0 +1,6 @@
+{
+  "version": "1.6.0",
+  "url": "https://github.com/wyft2/SeptemberCountdown/releases/latest",
+  "page": "https://github.com/wyft2/SeptemberCountdown",
+  "notes": "九月倒计时 v1.6.0：新增检查更新功能，国内网络下会自动尝试 GitHub、jsDelivr、国内镜像和 Gitee。"
+}
