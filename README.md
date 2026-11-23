@@ -63,5 +63,4 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 
 ## 作者
 
-- [@wyft2](https://github.com/wyft2)
-- [烧脑时刻](https://wyft2.github.io/Echo-Layer-Page-7/)
+- [@wyft2](https://space.bilibili.com/646121009)
