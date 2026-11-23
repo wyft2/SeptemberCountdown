@@ -1,6 +1,6 @@
 # 九月倒计时
 
-Windows 桌面无边框液态玻璃倒计时，支持数字流光、透明玻璃数字、数字流沙，以及检查更新。
+Windows 桌面无边框液态玻璃倒计时，支持数字流光（颜色渐变）、透明玻璃数字、数字流沙、八套配色、星空模式，以及检查更新。
 
 ## 下载
 
@@ -8,7 +8,7 @@ Windows 桌面无边框液态玻璃倒计时，支持数字流光、透明玻璃
 
 国内网络如果访问 GitHub Releases 困难，可以使用 jsDelivr 镜像：
 
-- [SeptemberCountdown_v1.6_Windows.zip](https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.6_Windows.zip)
+- [SeptemberCountdown_v1.7.0_Windows.zip](https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.7.0_Windows.zip)
 
 ## 检查更新
 
@@ -16,8 +16,8 @@ Windows 桌面无边框液态玻璃倒计时，支持数字流光、透明玻璃
 
 ```json
 {
-  "version": "1.6.0",
-  "url": "https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.6_Windows.zip",
+  "version": "1.7.0",
+  "url": "https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.7.0_Windows.zip",
   "page": "https://github.com/wyft2/SeptemberCountdown/releases/latest",
   "notes": "更新说明"
 }
