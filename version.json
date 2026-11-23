@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "url": "https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.6_Windows.zip",
+  "version": "1.7.0",
+  "url": "https://cdn.jsdelivr.net/gh/wyft2/SeptemberCountdown@main/download/SeptemberCountdown_v1.7.0_Windows.zip",
   "page": "https://github.com/wyft2/SeptemberCountdown/releases/latest",
-  "notes": "九月倒计时 v1.6.0：新增检查更新功能，国内网络自动尝试 GitHub、jsDelivr、Fastly、gh-proxy 和 Gitee；下载优先使用 jsDelivr。"
+  "notes": "九月倒计时 v1.7.0：新增星空模式、颜色渐变子菜单和八套配色；透明玻璃数字与数字流沙互斥。"
 }
